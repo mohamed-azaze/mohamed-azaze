@@ -1,5 +1,5 @@
 ###  Hi there 👋
- <h1> <smal>my Name is</smal> Mohamed Alazaze</h1>
+ <h1> <span fontSize = "18px">my Name is</span> Mohamed Alazaze</h1>
 ---
 
 ## 🚀 Languages and Tools:
