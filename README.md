@@ -1,5 +1,5 @@
 ###  Hi there 👋
-<h1>my Name is Mohamed Alazaze</h1>
+<h1>My Name is <strong>Mohamed Alazaze</strong> </h1>
 ---
 
 ## 🚀 Languages and Tools:
