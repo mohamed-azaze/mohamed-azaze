@@ -1,5 +1,5 @@
 ###  Hi there 👋
-<h1>My Name is Mohamed Alazaze </h1>
+<h1> <small>My Name is</small> Mohamed Alazaze </h1>
 <h3>Full Stack Laravel Developer</h3>
 ---
 
